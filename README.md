@@ -1,4 +1,4 @@
-# UltraSeP
+# UltraSeP: Sequence-aware Pre-training for Echocardiography Probe Movement Guidance
 
 This repository is the official Pytorch implementation for Cardiac UltraSeP.
 
