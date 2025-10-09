@@ -3,7 +3,7 @@
 This repository is the official Pytorch implementation for Cardiac UltraSeP.
 
 > **Title**:&emsp;&emsp;**UltraSeP: Sequence-aware Pre-training for Echocardiography Probe Movement Guidance**  
-> **Authors**:&nbsp;&nbsp;Haojun Jiang, Teng Wang, Zhenguo Sun, Yulin Wang, Yue Yang, Yu Sun, Ning Jia, Meng Li, Shaqi Luo, Shiji Song, Gao Huang 
+> **Authors**:&nbsp;&nbsp;Haojun Jiang, Teng Wang, Zhenguo Sun, Yulin Wang, Yue Yang, Yu Sun, Ning Jia, Meng Li, Shaqi Luo, Shiji Song, Gao Huang  
 > **Institute**: 1 Department of Automation, BNRist, Tsinghua University; 2 Beijing Academy of Artificial Intelligence  
  **Publish**:&nbsp;&nbsp;&nbsp; **Pattern Recognition 2026 (IF=7.6)**  
 > **Contact**:&nbsp;&nbsp; jianghaojunthu at 163 dot com / jhj20 at mails dot tsinghua dot edu dot cn
